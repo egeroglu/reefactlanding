@@ -203,7 +203,7 @@ export const pricing = [
     id: "1",
     title: "Professional",
     description: "Advanced analytics and AI-driven insights for growing businesses",
-    price: "49.99",
+    price: "79.99",
     features: [
       "Competitor tracking on five social media channel or web",
       "Advanced AI-powered reporting and instant notifications on market changes",
@@ -283,18 +283,18 @@ export const socials = [
     id: "0",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://x.com/reefactsocial",
   },
   {
     id: "1",
     title: "Linkedin",
     iconUrl: telegram,
-    url: "#",
+    url: "https://www.linkedin.com/company/reefact-community-tools/about/",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/reefactsocial/",
   }
 ];
